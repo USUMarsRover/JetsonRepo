@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nvidia/jetson_ws/install/setup.sh
